@@ -11,6 +11,8 @@ Features:
 
 Link: https://check.gaoji.uk/
 
+This tool runs on Cloudflare Global IDC Nodes.
+
 It's non-commercial, I cover costs myself. Might add minimal ads later to keep it alive.
 
 Feedback, bugs, suggestions welcome! Thanks.
