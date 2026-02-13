@@ -7,6 +7,7 @@ Features:
 - Dual-node comparison (server vs your browser) to spot regional blocks
 - Export valid streams to M3U
 - Runs in-memory, no data collection (links are useless to me)
+- Browser-based, no install needed
 
 Link: https://check.gaoji.uk/
 
