@@ -14,4 +14,5 @@ Link: https://check.gaoji.uk/
 It's non-commercial, I cover costs myself. Might add minimal ads later to keep it alive.
 
 Feedback, bugs, suggestions welcome! Thanks.
-![Uploading 屏幕截图 2026-02-11 202818.png…]()
+
+<img width="825" height="886" alt="屏幕截图 2026-02-11 202818" src="https://github.com/user-attachments/assets/ee67566e-ec81-4eff-b228-7c30332f4c3e" />
